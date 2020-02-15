@@ -1,0 +1,8 @@
+{
+  "short_name": "react-pagination-page-element",
+  "name": "react-pagination-page-element",
+  "start_url": "./index.html",
+  "display": "standalone",
+  "theme_color": "#000000",
+  "background_color": "#ffffff"
+}

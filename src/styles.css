@@ -1,0 +1,28 @@
+/* add css styles here (optional) */
+
+.react_pagination_page_element__ul {
+  display: inline-block;
+  padding: 10px;
+  border: 1px solid lightsalmon;
+  border-radius: 7px;
+}
+
+.react_pagination_page_element__ul span {
+  color: black;
+  float: left;
+  padding: 8px 16px;
+  text-decoration: none;
+  background-color: #4CAF50;
+  margin: 2px;
+  border-radius: 4px;
+}
+
+.react_pagination_page_element__ul span.active {
+  background-color: #f44336;
+  color: white;
+}
+
+.react_pagination_page_element__ul span:hover:not(.active) {
+  background-color: #ddd;
+  cursor: pointer;
+}
