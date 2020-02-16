@@ -35,11 +35,14 @@ export default class App extends Component {
         <ReactPagination 
           totalEntries={133} 
           currentPage={this.state.currentPage}
+          limitPerPage={10}
+          maxButtons={3}
           paginationEvent={(e, page) => this.paginationEvent(page)}/>
       </div>
     )
   }
 }
+
 
 ```
 
