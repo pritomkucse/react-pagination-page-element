@@ -4,6 +4,8 @@
 
 [![NPM](https://img.shields.io/npm/v/react-pagination-page-element.svg)](https://www.npmjs.com/package/react-pagination-page-element) [![JavaScript Style Guide](https://img.shields.io/badge/code_style-standard-brightgreen.svg)](https://standardjs.com)
 
+![Pagination](https://user-images.githubusercontent.com/25843631/74607121-160caa00-5100-11ea-9b76-7e7e4a070e80.JPG)
+
 ## Install
 
 ```bash
